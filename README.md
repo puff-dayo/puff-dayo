@@ -1,5 +1,7 @@
 # Setsuna_IRL/Me
 
+**Due to recent ongoing physical and mental health issues, I will only be checking GitHub messages on a monthly basis, please contact me by other means for important matters.**
+
 Setsuna_IRL is an unemployed hobby developer and explorer from Hanoi currently living in HK.
 
 Fuel me plz by trà ô long dừa caramel & seaside summer breeze.

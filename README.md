@@ -18,4 +18,5 @@ Ice Claws are Setsuna's primary weapon. By enveloping her hands with ice, the re
 
 <img src="https://github.com/puff-dayo/Setsuna/assets/84665734/07720d6c-d090-4666-a4c9-82151869d566" width="300" height="auto">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puff-dayo&layout=compact&theme=transparent&hide_border=true&langs_count=7)
+<br><br>
+<img src="./profile/top-langs.svg" height="150" />
